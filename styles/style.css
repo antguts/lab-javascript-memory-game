@@ -25,7 +25,8 @@ body {
 }
 
 .card.turned {
-  pointer-events: none;
+  /* pointer-events: none; */
+  /* transform: rotateY(90deg); */
 }
 
 .card.turned .front {
